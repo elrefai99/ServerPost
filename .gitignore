@@ -111,7 +111,9 @@ dist
 .tern-port
 
 # Typescript directories
-.vscode
+.build
+.dist
+.bin
 build
 dist
 bin
