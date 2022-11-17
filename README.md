@@ -5,7 +5,7 @@
 </div>
 
 <p>
-Serverless Framework template for zero-config TypeScript support.
+Serverless Framework template for TypeScript support.
 </p>
 
 ## Prerequisites
