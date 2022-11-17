@@ -1,6 +1,6 @@
 import { APIGatewayProxyEvent, Context } from 'aws-lambda'
 import awsServerlessExpress from 'aws-serverless-express'
-import app from './index'
+import app from './app'
 
 const server = awsServerlessExpress.createServer(app)
 
