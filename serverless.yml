@@ -1,0 +1,17 @@
+service: aws-lambda-typescript
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+
+functions:
+  hello:
+    handler: src/handlers.handler
+    events:
+      - http:
+          path: /
+          method: get
+
+plugins:
+  - serverless-plugin-typescript
