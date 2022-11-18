@@ -23,7 +23,7 @@ serverless create --template-url https://github.com/mohamed-elrefai/AWS-Lambda-T
 
 then
 ```
-    cd ProjectName
+cd ProjectName
 ```
 
 install package
@@ -33,7 +33,7 @@ npm install OR
 
 then deploy
 ```
-    serverless deploy
+serverless deploy
 ```
 </p>
 
