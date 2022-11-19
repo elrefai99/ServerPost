@@ -28,7 +28,7 @@ cd ProjectName
 
 install package
 ```
-npm install OR
+yarn
 ```
 
 then deploy
