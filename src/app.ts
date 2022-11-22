@@ -5,7 +5,7 @@ const app: Application = express()
 SetupsUtils(app)
 
 app.get('/', (_req, res) => {
-    res.status(200).json({ code: 200, statuse: "OK", message: 'API AWS BY TYPESCRIPT, By Mohamed Mostafa' })
+    res.status(200).json({ code: 200, statuse: 'OK', message: 'API AWS BY TYPESCRIPT, By Mohamed Mostafa' })
 })
 
 export default app
