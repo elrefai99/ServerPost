@@ -1,6 +1,6 @@
 <div align = center>
 
-# Aws Api Lambda By TypeScript
+# ServerPost
 
 </div>
 
@@ -18,7 +18,7 @@ Serverless Framework template for TypeScript support.
 To create Aws Api Lambda By TypeScript project
 
 ```bash
-serverless create --template-url https://github.com/mohamed-elrefai/AWS-Lambda-TypeScript/tree/main / --path ProjectName
+npx serverpost ProjectName
 ```
 
 then
@@ -28,7 +28,7 @@ cd ProjectName
 
 install package
 ```
-yarn
+yarn Or npm i
 ```
 
 then deploy
