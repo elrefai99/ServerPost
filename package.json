@@ -1,6 +1,6 @@
 {
   "name": "serverpost",
-  "version": "1.0.1",
+  "version": "0.1.1",
   "description": "Serverless Framework template for zero-config TypeScript support.",
   "main": "index.js",
   "private": true,
