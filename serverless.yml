@@ -12,7 +12,6 @@ functions:
       - http:
           path: /
           method: GET
-          cors: true
 
 plugins:
   - serverless-plugin-typescript
