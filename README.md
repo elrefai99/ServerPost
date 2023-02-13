@@ -28,12 +28,12 @@ cd <projectname>
 
 install package
 ```
-yarn Or npm i
+yarn
 ```
 
 then deploy
 ```
-serverless deploy
+yarn deploy
 ```
 </p>
 
