@@ -4,7 +4,7 @@
     "strictNullChecks": true,
     "sourceMap": true,
     "allowJs": true,
-    "target": "ES6",
+    "target": "ES2022",
     "outDir": "./build",
     "moduleResolution": "node",
     "lib": ["es2017"],
